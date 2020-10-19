@@ -1,0 +1,87 @@
+.boxed{
+  border: 5px solid purple;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
+.btnn{
+  border:100px;
+  color:orange;
+  text-align:center;
+  margin:10px 5px;
+}
+body {
+
+  background-image: url("https://image.freepik.com/free-photo/empty-wooden-table-with-colorful-smoke-float-up-dark-background_68495-150.jpg");
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+
+.navlink{
+  background: black;
+  height: 70px;
+  opacity: 1;
+  top: 0;
+}
+
+.head1{
+  font-size: 30px;
+  font-weight: bolder;
+  color: red;
+}
+
+.head2{
+  font-size: 50px;
+  font-weight:900 ;
+  color: purple;
+  border: 3px solid purple;
+  border-radius: 40px;
+  background-color: pink;
+  opacity: 0.6;
+  box-shadow: 0 0 30px pink;
+}
+
+.head3{
+  font-size: 30px;
+  font-weight:bold;
+  color: purple;
+  border: 3px solid purple;
+  border-radius: 40px;
+  background-color: pink;
+  opacity: 0.6;
+  box-shadow: 0 0 30px pink;
+  width: 500px;
+  height: inherit;
+  }
+
+  .content{
+    color: white;
+    font-weight: bold;
+  }
+  .list{
+    float:center !important;
+    align-items: center !important;
+    border: 3px solid white;
+    border-radius: 40px;
+    background-color: black;
+    opacity: 0.8;
+
+    color: white;
+    font-weight: bold;
+  }
+
+img{
+  height: 500px;
+  width: 500px;
+  border: 3px solid purple;
+  box-shadow: 0 0 30px pink;
+  border-radius: 30px;
+}
+
+a{
+  color: red !important;
+}
